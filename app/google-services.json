@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889067386186",
+    "firebase_url": "https://newmovievera.firebaseio.com",
+    "project_id": "newmovievera",
+    "storage_bucket": "newmovievera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889067386186:android:ad08cfdfd115ed04babdb3",
+        "android_client_info": {
+          "package_name": "com.hdmoviesnew.hdmovies2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889067386186-a8v29ntfjnoki0douvm971s9gn10rthj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQBgjEcAW0GvqAzN3TWLTDgqVRk5WV4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889067386186-a8v29ntfjnoki0douvm971s9gn10rthj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
